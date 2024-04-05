@@ -1,4 +1,4 @@
-# Probabilistic-Analysis
+# probabilistic-model
 
 LSTM 확률 모델 테스트
 
